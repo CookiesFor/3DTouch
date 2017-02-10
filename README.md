@@ -1,0 +1,2 @@
+# 3DTouch
+一个简单的3DTouch应用，点击相应的touch选项进入到相应的app页面内。在页面内先判断是否满足3DTouch，如满足则有touch效果

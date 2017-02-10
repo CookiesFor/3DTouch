@@ -440,7 +440,7 @@
 				INFOPLIST_FILE = 3dTouch/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "cn.incorner.moke.-dTouch";
+				PRODUCT_BUNDLE_IDENTIFIER = "cn.3dtouch.moke.-dTouch";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -453,7 +453,7 @@
 				INFOPLIST_FILE = 3dTouch/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "cn.incorner.moke.-dTouch";
+				PRODUCT_BUNDLE_IDENTIFIER = "cn.3dtouch.moke.-dTouch";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
